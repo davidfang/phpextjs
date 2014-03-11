@@ -1,0 +1,1589 @@
+2014/02/27 05:39:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docs/php/js/jquery.mousewheel.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('docs/php/js/jqu...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/docs/php/js/jquery.mousewheel.min.js
+HTTP_REFERER=http://localhost/phpextjs_standart/docs/php/graphs/class.html
+---
+2014/02/27 05:39:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docs/php/graphs/classes.svg".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('docs/php/graphs...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/docs/php/graphs/classes.svg
+HTTP_REFERER=http://localhost/phpextjs_standart/docs/php/graphs/class.html
+---
+2014/02/27 05:57:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docs/api/classes.svg".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('docs/api/classe...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/docs/api/classes.svg
+HTTP_REFERER=http://localhost/phpextjs_standart/docs/api/graph_class.html
+---
+2014/02/27 06:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docs/api/classes.svg".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('docs/api/classe...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/docs/api/classes.svg
+HTTP_REFERER=http://localhost/phpextjs_standart/docs/api/graph_class.html
+---
+2014/02/27 06:06:20 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/02/27 06:37:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docs/api/classes.svg".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('docs/api/classe...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/docs/api/classes.svg
+HTTP_REFERER=http://localhost/phpextjs_standart/docs/api/graph_class.html
+---
+2014/02/27 06:37:58 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/02/27 07:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "api/php/index.html".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('api/php/index.h...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/api/php/index.html
+HTTP_REFERER=http://localhost/phpextjs_standart/api/php/source-class-PhpextjsControllerCode.html
+---
+2014/02/27 07:06:04 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/02/27 07:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "api/php/app.js".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('api/php/app.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/api/php/app.js
+HTTP_REFERER=http://localhost/phpextjs_standart/api/php/index.html
+---
+2014/02/27 07:06:04 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/02/27 07:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "api/php/shared/options-toolbar.js".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('api/php/shared/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/api/php/shared/options-toolbar.js
+HTTP_REFERER=http://localhost/phpextjs_standart/api/php/index.html
+---
+2014/02/27 07:06:04 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/02/27 07:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "api/php/shared/include-ext.js".' in /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('api/php/shared/...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/phpextjs_standart/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/phpextjs_standart/api/php/shared/include-ext.js
+HTTP_REFERER=http://localhost/phpextjs_standart/api/php/index.html
+---
+2014/02/27 07:06:04 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 11:59:29 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 11:59:29 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection.' in F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php:388
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(387): CDbConnection->init()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(634): CApplication->getDb()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1428): CActiveRecord->getDbConnection()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1484): CActiveRecord->getTableAlias(true)
+#7 F:\www\fmwdavid\phpextjs_standart\protected\components\WebUser.php(14): CActiveRecord->findByPk(NULL)
+#8 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\main.php(55): WebUser->get()
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#17 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#20 F:\www\fmwdavid\phpextjs_standart\protected\controllers\SiteController.php(36): CController->render('index')
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('')
+#26 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#27 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#29 {main}
+REQUEST_URI=/
+---
+2014/03/07 11:59:29 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:04:12 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:04:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection.' in F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php:388
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(387): CDbConnection->init()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(634): CApplication->getDb()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1428): CActiveRecord->getDbConnection()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1484): CActiveRecord->getTableAlias(true)
+#7 F:\www\fmwdavid\phpextjs_standart\protected\components\WebUser.php(14): CActiveRecord->findByPk(NULL)
+#8 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\main.php(55): WebUser->get()
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#17 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#20 F:\www\fmwdavid\phpextjs_standart\protected\controllers\SiteController.php(36): CController->render('index')
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('')
+#26 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#27 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#29 {main}
+REQUEST_URI=/
+---
+2014/03/07 12:04:12 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:05:46 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:05:46 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection.' in F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php:388
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(387): CDbConnection->init()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(634): CApplication->getDb()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1428): CActiveRecord->getDbConnection()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1484): CActiveRecord->getTableAlias(true)
+#7 F:\www\fmwdavid\phpextjs_standart\protected\components\WebUser.php(14): CActiveRecord->findByPk(NULL)
+#8 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\main.php(55): WebUser->get()
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#17 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#20 F:\www\fmwdavid\phpextjs_standart\protected\controllers\SiteController.php(36): CController->render('index')
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('')
+#26 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#27 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#29 {main}
+REQUEST_URI=/
+---
+2014/03/07 12:05:46 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:06:05 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 12:06:05 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection.' in F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php:388
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(387): CDbConnection->init()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(450): CModule->getComponent('db')
+#4 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(634): CApplication->getDb()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1428): CActiveRecord->getDbConnection()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\db\ar\CActiveRecord.php(1484): CActiveRecord->getTableAlias(true)
+#7 F:\www\fmwdavid\phpextjs_standart\protected\components\WebUser.php(14): CActiveRecord->findByPk(NULL)
+#8 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\main.php(55): WebUser->get()
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 F:\www\fmwdavid\phpextjs_standart\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#17 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#20 F:\www\fmwdavid\phpextjs_standart\protected\controllers\SiteController.php(36): CController->render('index')
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('')
+#26 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#27 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#29 {main}
+REQUEST_URI=/
+---
+2014/03/07 12:06:05 [error] [exception.CDbException] SQLSTATE[HY000] [1049] Unknown database 'phpextjs_standart'
+2014/03/07 17:02:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/03/11 11:48:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/03/11 11:48:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/03/11 12:12:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('read')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('User/read')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#12 {main}
+REQUEST_URI=/User/read?_dc=1394511152397&page=1&start=0&limit=25
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 12:19:20 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "F:\www\fmwdavid\phpextjs_standart\assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php:138
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(123): CAssetManager->setBasePath('F:\www\fmwdavid...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(217): CAssetManager->getBasePath()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\gii\GiiModule.php(143): CAssetManager->publish('F:\www\fmwdavid...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(111): GiiModule->getAssetsUrl()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(105): CComponent->__get('assetsUrl')
+#5 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div class="con...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div class="con...')
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#16 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#17 F:\www\fmwdavid\phpextjs_standart\framework\gii\controllers\DefaultController.php(47): CController->render('login', Array)
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): DefaultController->actionLogin()
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('login')
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#24 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#25 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#26 {main}
+REQUEST_URI=/gii/default/login
+---
+2014/03/11 12:21:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "F:\www\fmwdavid\phpextjs_standart\assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php:138
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(123): CAssetManager->setBasePath('F:\www\fmwdavid...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(217): CAssetManager->getBasePath()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\gii\GiiModule.php(143): CAssetManager->publish('F:\www\fmwdavid...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(111): GiiModule->getAssetsUrl()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(105): CComponent->__get('assetsUrl')
+#5 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div class="con...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div class="con...')
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#16 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#17 F:\www\fmwdavid\phpextjs_standart\framework\gii\controllers\DefaultController.php(47): CController->render('login', Array)
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): DefaultController->actionLogin()
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('login')
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#24 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#25 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#26 {main}
+REQUEST_URI=/gii/default/login
+---
+2014/03/11 12:21:40 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "F:\www\fmwdavid\phpextjs_standart\assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php:138
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(123): CAssetManager->setBasePath('F:\www\fmwdavid...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CAssetManager.php(217): CAssetManager->getBasePath()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\gii\GiiModule.php(143): CAssetManager->publish('F:\www\fmwdavid...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(111): GiiModule->getAssetsUrl()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(105): CComponent->__get('assetsUrl')
+#5 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#9 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div class="con...')
+#10 F:\www\fmwdavid\phpextjs_standart\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div class="con...')
+#11 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 F:\www\fmwdavid\phpextjs_standart\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#14 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(126): require('F:\www\fmwdavid...')
+#15 F:\www\fmwdavid\phpextjs_standart\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\www\fmwdavid...', Array, true)
+#16 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(784): CBaseController->renderFile('F:\www\fmwdavid...', Array, true)
+#17 F:\www\fmwdavid\phpextjs_standart\framework\gii\controllers\DefaultController.php(47): CController->render('login', Array)
+#18 F:\www\fmwdavid\phpextjs_standart\framework\web\actions\CInlineAction.php(49): DefaultController->actionLogin()
+#19 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('login')
+#23 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#24 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#25 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#26 {main}
+REQUEST_URI=/gii/default/login
+---
+2014/03/11 13:40:13 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:40:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:40:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:40:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:40:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:43:59 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:44:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:44:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:42 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:58 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/employees/admin
+---
+2014/03/11 13:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 13:45:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/employees...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/employees/app.js
+HTTP_REFERER=http://phpextjs/admin/employees/admin
+---
+2014/03/11 14:34:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin')
+#9 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#11 {main}
+REQUEST_URI=/user/admin
+---
+2014/03/11 14:34:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('user/app.js')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/user/app.js
+HTTP_REFERER=http://phpextjs/user/admin
+---
+2014/03/11 14:34:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminresources".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminresources')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminresources')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('user/adminresou...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/user/adminresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/user/admin
+---
+2014/03/11 14:34:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "adminext".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('adminext')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('adminext')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('user/adminext/e...')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/user/adminext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/user/admin
+---
+2014/03/11 14:34:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php:483
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CController.php(270): CController->missingAction('app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(282): CController->run('app.js')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('user/app.js')
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/user/app.js
+HTTP_REFERER=http://phpextjs/user/admin
+---
+2014/03/11 14:40:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesresources/css/ext-all-neptune-debug.css".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesresour...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 14:40:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesext/ext-all-debug.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesext/ex...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 14:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesresources/css/ext-all-neptune-debug.css".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesresour...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 14:42:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesext/ext-all-debug.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesext/ex...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 14:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesresources/css/ext-all-neptune-debug.css".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesresour...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesresources/css/ext-all-neptune-debug.css
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 14:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "employeesext/ext-all-debug.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('employeesext/ex...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/employeesext/ext-all-debug.js
+HTTP_REFERER=http://phpextjs/employees
+---
+2014/03/11 15:02:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+HTTP_REFERER=http://phpextjs/gii/phpextjsCrud/index
+---
+2014/03/11 15:02:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394521344811
+HTTP_REFERER=http://phpextjs/login.php
+---
+2014/03/11 15:02:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394521368077
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/controller/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/controller/...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/controller/EmployeesController.js?_dc=1394523473106
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:38:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523508526
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:39:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523595665
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523640568
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:40:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523653338
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:41:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523703823
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:45:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394523927982
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:46:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394524005047
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:47:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394524070070
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 15:58:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+---
+2014/03/11 15:58:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394524712958
+HTTP_REFERER=http://phpextjs/login.php
+---
+2014/03/11 16:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/03/11 16:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394524855399
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 16:05:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394525108566
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 16:05:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394525155014
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 16:42:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/model/EmployeesController.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('app/model/Emplo...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/model/EmployeesController.js?_dc=1394527365975
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/11 16:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+---
+2014/03/11 16:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.phpsite/login".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.phpsite/l...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.phpsite/login
+HTTP_REFERER=http://phpextjs/login.php
+---
+2014/03/11 16:46:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+---
+2014/03/11 16:46:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.phpsite/login".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('login.phpsite/l...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.phpsite/login
+HTTP_REFERER=http://phpextjs/login.php
+---
+2014/03/11 19:49:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/index".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index
+---
+2014/03/11 19:49:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/index
+---
+2014/03/11 19:49:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/index
+---
+2014/03/11 19:50:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:50:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:55:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:56:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:56:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:59:32 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/
+---
+2014/03/11 19:59:32 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin/app.js')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:59:33 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin/app.js')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:59:43 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/
+---
+2014/03/11 19:59:43 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin/app.js')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 19:59:45 [error] [exception.CException] exception 'CException' with message 'The layout path "application.modules.admin.views.layouts" is not a valid directory.' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebModule.php:161
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\base\CComponent.php(152): CWebModule->setLayoutPath('application.mod...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(513): CComponent->__set('layoutPath', 'application.mod...')
+#2 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(86): CModule->configure(Array)
+#3 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#4 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CModule->getModule('admin')
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController('admin/app.js')
+#7 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#8 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#10 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 20:00:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 20:00:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 20:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/
+---
+2014/03/11 20:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 20:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/app.js".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/app.js')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/app.js
+HTTP_REFERER=http://phpextjs/admin/
+---
+2014/03/11 20:04:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin
+---
+2014/03/11 20:06:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/default/index".' in F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/default/i...')
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs_standart\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin
+---
+2014/03/11 20:18:12 [error] [php] include(selfCWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:18:22 [error] [php] include(selfCWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:18:58 [error] [php] include(selfCWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:19:17 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:19:19 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:19:20 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:19:22 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:20:13 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:20:15 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:20:49 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:24:24 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:33:25 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:35:20 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:37:40 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:43:30 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:44:13 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/?r=admin
+2014/03/11 20:47:47 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin
+2014/03/11 20:48:51 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/employees
+2014/03/11 20:48:51 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/app.js
+2014/03/11 20:48:52 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/app.js
+2014/03/11 20:49:09 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/employees/index
+2014/03/11 20:49:09 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/employees/app.js
+2014/03/11 20:49:10 [error] [php] include(CWebMouble.php): failed to open stream: No such file or directory (F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs_standart\protected\modules\admin\AdminModule.php(15): spl_autoload_call()
+#1 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(90): AdminModule->init()
+#2 F:\www\fmwdavid\phpextjs_standart\framework\YiiBase.php(206): AdminModule->__construct()
+#3 F:\www\fmwdavid\phpextjs_standart\framework\base\CModule.php(282): createComponent()
+#4 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(337): CWebApplication->getModule()
+#5 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#6 F:\www\fmwdavid\phpextjs_standart\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\www\fmwdavid\phpextjs_standart\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\www\fmwdavid\phpextjs_standart\index.php(12): CWebApplication->run()
+REQUEST_URI=/admin/employees/app.js
+2014/03/12 01:52:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+HTTP_REFERER=http://phpextjs/
+---
+2014/03/12 01:52:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.php".' in F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php(141): CWebApplication->runController('login.php')
+#1 F:\www\fmwdavid\phpextjs\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\www\fmwdavid\phpextjs\index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.php
+HTTP_REFERER=http://phpextjs/login.php
+---
+2014/03/12 01:52:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in F:\www\fmwdavid\phpextjs\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 F:\www\fmwdavid\phpextjs\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 F:\www\fmwdavid\phpextjs\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#2 F:\www\fmwdavid\phpextjs\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 F:\www\fmwdavid\phpextjs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 F:\www\fmwdavid\phpextjs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 F:\www\fmwdavid\phpextjs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 F:\www\fmwdavid\phpextjs\framework\web\CController.php(291): CFilterChain->run()
+#7 F:\www\fmwdavid\phpextjs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php(282): CController->run('read')
+#9 F:\www\fmwdavid\phpextjs\framework\web\CWebApplication.php(141): CWebApplication->runController('User/read')
+#10 F:\www\fmwdavid\phpextjs\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 F:\www\fmwdavid\phpextjs\index.php(12): CApplication->run()
+#12 {main}
+REQUEST_URI=/User/read?_dc=1394560343449&page=1&start=0&limit=25
+HTTP_REFERER=http://phpextjs/
+---
